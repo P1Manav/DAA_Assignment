@@ -9,7 +9,7 @@ If you just want to play the game without modifying the code, follow these simpl
 
 2. **Run the Game**:
    - Navigate to the `Release` folder in the cloned repository.
-   - Double-click on the `tron.exe` (or `tron` application file) to start playing the game.
+   - Double-click on the `assignment.exe` (or `assignment` application file) to start playing the game.
 
 ### How to Set Up the Development Environment
 If you want to view, modify, or understand the code, follow these steps to set up the development environment:
